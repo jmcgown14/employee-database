@@ -21,7 +21,7 @@ VALUES (1, "Jacob", "Grell", null),
         (4, "Evan", "Battlefield", null),
         (5, "Frodo", "Baggins", 1),
         (5, "Sam", "Gamgee", 1),
-        (6, "Bruce", "Wayne", 3)
+        (6, "Bruce", "Wayne", 3),
         (8, "Ash", "Ketchum", 2),
         (7, "Salazar", "Slytherin", 4),
         (7, "Edgar", "Poe", 4);
